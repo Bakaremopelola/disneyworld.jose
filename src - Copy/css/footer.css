@@ -1,0 +1,22 @@
+.footer{
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.old{
+    font-size: 26px;
+    gap: 10px;
+    margin: 1em;
+}
+
+span{
+    font-size: 12px;
+    margin: 8px;
+}
+
+.last{
+    font-size: 14px;
+    margin-top: 20px;
+}

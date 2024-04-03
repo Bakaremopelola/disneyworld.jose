@@ -1,0 +1,59 @@
+.NavBar{
+    height:100%;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: left;
+    place-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+
+.logo img {
+    width: 150px;
+    
+}
+
+.other {
+    position: relative;
+    display: flex;
+    color: white;
+}
+
+
+li {
+    list-style: none;
+    color: white;
+}
+
+
+ul {
+    position: absolute;
+    top: 10em;
+    left: 3em;
+    color: white;
+}
+
+.submenu ul li a {
+    color: white;
+}
+
+.left {
+    position: relative;
+    
+
+}
+.other {
+    position: relative;
+
+}
+.All {
+    position: relative;
+
+}
